@@ -1,0 +1,28 @@
+.App {
+  padding: 2rem;
+}
+
+.App p {
+  padding: 0;
+  margin: 0;
+  font-family: none;
+  font-size: large;
+}
+
+.readMoreLink {
+  color: blueviolet;
+  cursor: pointer;
+}
+
+.show {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.extraContent {
+
+  /* color: cornflowerblue;
+  font-weight: 500; */
+}

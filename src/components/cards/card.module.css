@@ -1,0 +1,43 @@
+/* .cardContainer {
+        border: 1px solid red;
+        display: flex;
+        flex-direction: row;
+        padding: 1rem;
+        width: 23%;
+        flex-wrap: wrap;
+      
+} */
+
+.cardbox {
+        border: 1px solid green;
+        background: #F9D9AA;
+        align-items: center;
+        padding: 1rem 0rem;
+        display: flex;
+        flex-direction: column;
+        /* flex: 1; */
+        width: 32%;
+        margin: 1rem auto;
+        /* max-width: 32%; */
+        /* min-width: 32%; */
+
+}
+
+.img {
+
+        /* border: 1px solid black; */
+}
+
+.productInfo {
+        display: flex;
+        flex-direction: column;
+        /* justify-content: space-between; */
+        align-items: center;
+
+        padding: 2rem 2rem;
+}
+
+.productInfo button {
+        padding: 0rem;
+        margin: 0rem;
+}

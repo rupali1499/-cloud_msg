@@ -1,0 +1,42 @@
+.navbarCss {
+        display: flex;
+        padding: 0rem 3rem;
+
+        justify-content: space-between;
+        /* background-color: cadetblue; */
+        color: darkred;
+        background: #F7EBDA;
+
+}
+
+.leftdiv {
+        display: flex;
+
+}
+
+.rightdiv {
+        display: flex;
+
+}
+
+.rightdiv img {
+        height: 3rem;
+
+        margin: auto;
+}
+
+p {
+        padding: 0rem 2rem;
+        text-decoration: none;
+        font-size: large;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.linkmenu {
+        text-decoration: none;
+        color: darkred;
+}
+
+.counter {
+        font-size: 2rem;
+}

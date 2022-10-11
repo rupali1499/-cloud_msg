@@ -1,0 +1,22 @@
+/* .page {
+        background-color: darkkhaki;
+} */
+
+.container {
+
+        padding: 3rem;
+
+}
+
+.cartItems {
+        /* margin: auto; */
+        padding: 2rem;
+        border: 2px solid blue;
+        justify-content: center;
+        background-color: lightblue;
+        align-items: center;
+}
+
+.cartItems img {
+        height: 20rem;
+}

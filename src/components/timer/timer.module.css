@@ -1,0 +1,35 @@
+.timer {
+  width: fit-content;
+  /* border: 1px solid red; */
+  align-items: center;
+  /* justify-items: center; */
+  margin: auto;
+  margin-top: 5rem;
+
+}
+
+.stopwatch {
+  padding: 0.8rem;
+}
+
+.stopwatch span {
+  font-size: 2rem;
+}
+
+.mainminutes {}
+
+.seconds {}
+
+.milliseconds {}
+
+.btn {
+  margin: 1rem 0rem;
+}
+
+.btn button {
+  /* margin: 0rem 1rem; */
+}
+
+.start {
+  /* padding: 0rem 1rem; */
+}

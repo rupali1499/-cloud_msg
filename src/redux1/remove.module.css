@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10rem;
+}
+
+.map {
+  display: flex;
+  margin: 2rem;
+  background-color: antiquewhite;
+  border: 2px solid palevioletred;
+}
+
+input {
+  padding: 1rem;
+  background-color: antiquewhite;
+  border: 2px solid palevioletred;
+}
+
+input:focus {
+  border: none;
+}
+
+button {
+  margin: 5rem 0rem;
+  padding: 1rem;
+  background-color: antiquewhite;
+  border: 2px solid brown;
+  color: brown;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: pink;
+  border: 2px solid palevioletred;
+}
